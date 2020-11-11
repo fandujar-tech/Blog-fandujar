@@ -1,3 +1,3 @@
 # Artículos Publicados en Medium 
 
-El repositorio cuenta con los archivos y scripts utilizados en los artículos de Medium
+El presente repositorio cuenta con los archivos y scripts utilizados en los artículos publicados de Medium por Fernando Andújar. Cada carpeta representa un artículo.
