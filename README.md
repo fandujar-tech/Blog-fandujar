@@ -1,3 +1,3 @@
-# Artículos Publicados en Medium 
+# Artículos Publicados en Blog Personal 
 
-El presente repositorio cuenta con los archivos y scripts utilizados en los artículos publicados en Medium por Fernando Andújar. Cada carpeta representa un artículo.
+El presente repositorio cuenta con los archivos y scripts utilizados en los artículos publicados en mi blog personal (fandujar). Cada carpeta representa un artículo.
